@@ -72,6 +72,10 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a mathematical physicist working at the intersection of high energy theory, gravity and quantum physics. The main goal of my research is to use quantum field theory and string theory techniques to gain new insights into quantum many-body dynamics. Much of my research makes use of holography, which provides a class of strongly coupled quantum field theories that have a dual description in terms of the physics of black holes in anti-de Sitter space.
+
+Full details of my publications can be found at any of the websites listed below:
+
+[google scholar](https://scholar.google.com/citations?user=-x6ACiMAAAAJ&hl=en&oi=ao)
