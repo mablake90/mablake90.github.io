@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: Funding
+date: 2025-07-26
 
 type: landing
 
@@ -8,41 +8,26 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Thank you to the organizations that support our research.
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: uob-logo.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: Thank you to the organizations that support out research. 
+        content: 
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: ukri-logo.jpg
             filters:
               brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          position: right
+          color: '#666'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
