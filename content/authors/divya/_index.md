@@ -1,14 +1,23 @@
 ---
 # REQUIRED
 title: "Divya Patel"          # Display name
-role: "Postgraduate Research Student"
-
-# This short text will show on the card in the group block
-bio: "Divya does cool work in holography."
 
 # Optional but useful for sorting
 first_name: "Divya"
 last_name: "Patel"
+
+authors:
+  - divya
+
+superuser: False
+
+role: PhD Student
+
+organizations:
+  - name: University of Bristol
+    url: ''
+  
+bio: Divya does cool holography research.
 
 # Research interests to show
 interests:
@@ -20,11 +29,6 @@ social:
     icon_pack: fas
     link: 'mailto:divya.patel@bristol.ac.uk'
 
-
-# Avatar/headshot
-avatar:
-  filename: nobody.png
-  alt_text: "Divya Patel"
 
 # (Optional) Grouping – lets you selectively show subsets
 user_groups:
