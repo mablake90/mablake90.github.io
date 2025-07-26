@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Thank you to the organizations that support our research.
+      - title: 
         content: 
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Thank you to the organizations that support out research. 
+      - title: 
         content: 
         align: center
         background:
