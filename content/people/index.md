@@ -23,4 +23,15 @@ sections:
       show_interests: true
       show_role: true
       show_social: true
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 ---
