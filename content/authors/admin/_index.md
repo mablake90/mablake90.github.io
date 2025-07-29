@@ -31,9 +31,6 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:mike.blake@bristol.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-x6ACiMAAAAJ&hl=en&oi=ao
@@ -67,3 +64,5 @@ Full details of my publications can be found at any of the websites listed below
 [orcid](https://orcid.org/0000-0002-7788-4671)
 
 [Inspire](https://inspirehep.net/authors/1121755#with-citation-summary)
+
+My research group is currently funded by United Kingdom Research and Innovation (UKRI) through the UK Government's Horizon Europe Guarantee Scheme, Grant No. EP/Y00468X/1, `Strongly Interacting Quantum Dynamics'. 
