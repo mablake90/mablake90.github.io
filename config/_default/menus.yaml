@@ -7,13 +7,10 @@ main:
   - name: Group
     url: people
     weight: 10
-  - name: Funding
-    url: tour
-    weight: 40
   - name: Projects
     url: post
     weight: 20
-  - name: Events
+  - name: Activities
     url: event
     weight: 30
 #  - name: Publications
