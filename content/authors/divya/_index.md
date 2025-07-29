@@ -24,10 +24,8 @@ interests:
   - Cool holography stuff
 
 # Add your Google Scholar (and any other) social links
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:divya.patel@bristol.ac.uk'
+
+ 
 
 
 # (Optional) Grouping – lets you selectively show subsets
