@@ -1,6 +1,7 @@
 ---
 title: Classically Simulable Operator Scrambling
 date: 2025-07-26
+share: false
 ---
 
 We have demonstrated that a class of quantum circuits that exihibits operator scrambling can be classically simulated by a novel technique.
