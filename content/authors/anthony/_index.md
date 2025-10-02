@@ -17,7 +17,7 @@ organizations:
   - name: University of Bristol
     url: ''
   
-bio: Anthony was a PhD student in the group from 2021-2025, working on chaos and information scrambling.
+bio: PhD student 2021-2025
 
 # Research interests to show
 interests:
@@ -40,5 +40,5 @@ user_groups:
 # You can add any additional params you want to use later
 # email: "alice@example.edu"
 ---
-Anthony was a PhD student in the group 2021-2025. During that time he worked on a range of projects at the intersection of quantum information theory, many-body physics, and holography. 
+Anthony was a PhD student in the group between 2021-2025. During that time he worked on a range of projects at the intersection of quantum information theory, many-body physics, and holography. 
 
