@@ -1,6 +1,7 @@
 ---
 title: Entanglement Membrane and Black Hole Information 
 date: 2025-07-29
+share: false
 ---
 
 We have identified novel connections between entanglement dynamics during black hole evaporation and the thermalization of isolated quantum systems. 
