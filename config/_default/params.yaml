@@ -16,10 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Research'
+    org_name: 'Quantum Many-Body and Holography Group, University of Bristol'
+    description: 'Research group led by Dr Mike Blake at the University of Bristol. We study quantum field theory, AdS/CFT, quantum many-body physics, and holography.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -72,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/mablake90/mablake90.github.io'
     content_dir: content
     branch: main
   avatar:
