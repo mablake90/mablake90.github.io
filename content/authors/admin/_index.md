@@ -34,6 +34,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-x6ACiMAAAAJ&hl=en&oi=ao
+  - icon: inspire
+    icon_pack: custom
+    link: https://inspirehep.net/authors/1121755 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
