@@ -35,7 +35,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-x6ACiMAAAAJ&hl=en&oi=ao
   - icon: inspire
-    icon_pack: custom
+    icon_pack: ai
     link: https://inspirehep.net/authors/1121755 
 
 # Link to a PDF of your resume/CV from the About widget.
