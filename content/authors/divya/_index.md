@@ -17,11 +17,12 @@ organizations:
   - name: University of Bristol
     url: ''
   
-bio: Divya does cool holography research.
+bio: Divya is a postgraduate researcher in the group. Divya currently works on classifying the quantum entropy cone using multi-partite entanglement inequalities.
 
 # Research interests to show
 interests:
-  - Cool holography stuff
+  - Entropy inequalities.
+  - Holographic entanglement entropy. 
 
 # Add your Google Scholar (and any other) social links
 
