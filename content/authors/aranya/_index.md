@@ -36,4 +36,4 @@ user_groups:
 # You can add any additional params you want to use later
 # email: "alice@example.edu"
 
-___
+---
