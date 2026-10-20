@@ -27,7 +27,14 @@ interests:
 
 # Add your Google Scholar (and any other) social links
 social:
- 
+
+ # (Optional) Grouping – lets you selectively show subsets
+user_groups:
+  - Postdocs
+# Other common examples: "Postdocs", "PhD Students", "Masters Students", "Alumni"
+
+# You can add any additional params you want to use later
+# email: "alice@example.edu"
 
 
 # (Optional) Grouping – lets you selectively show subsets
