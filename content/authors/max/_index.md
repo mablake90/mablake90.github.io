@@ -23,7 +23,7 @@ bio: Max is a postdoctoral researcher in the group. His research is centred on e
 interests:
   - Quantum entropy cone
   - Entropy inequalities
-  - Quantum Information and Gravity.
+  - Quantum Information and gravity
 
 # Add your Google Scholar (and any other) social links
 social:
