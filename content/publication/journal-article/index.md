@@ -1,7 +1,7 @@
 ---
 title: "An example journal article"
 authors:
-- admin
+- no-one 
 - Robert Ford
 author_notes:
 - "Equal contribution"
