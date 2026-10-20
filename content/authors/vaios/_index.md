@@ -17,11 +17,13 @@ organizations:
   - name: University of Bristol
     url: ''
   
-bio: Vaios does cool holography research.
+bio: Vaios was a postdoctoral research in the group from 2023-2026. Vaios worked primarily on aspect of hydrodynamics and the Schwinger-Keldysh formalism. 
 
 # Research interests to show
 interests:
-  - Cool holography stuff
+  - Hydrodynamics.
+  - Holography.
+  - Schwinger-Keldysh formalism. 
 
 # Add your Google Scholar (and any other) social links
 social:
@@ -35,10 +37,9 @@ social:
 
 # (Optional) Grouping – lets you selectively show subsets
 user_groups:
-  - Postdocs
+  - Alumni
 # Other common examples: "Postdocs", "PhD Students", "Masters Students", "Alumni"
 
 # You can add any additional params you want to use later
 # email: "alice@example.edu"
 ---
-Vaios does cool work in holography.
