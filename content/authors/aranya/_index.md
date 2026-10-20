@@ -1,0 +1,33 @@
+---
+# REQUIRED
+title: "Aranya Bhattacharya"          # Display name
+
+# Optional but useful for sorting
+first_name: "Aranya"
+last_name: "Bhattacharya"
+
+authors:
+  - aranya
+
+superuser: False
+
+role: Senior Research Associate
+
+organizations:
+  - name: University of Bristol
+    url: ''
+  
+bio: Aranya is a postdoctoral researcher in the group. His research is centred on probes of chaos and complexity in many-body quantum systems and QFT.
+
+# Research interests to show
+interests:
+  - Krylov complexity
+  - Open quantum systems
+  - Scattering Amplitudes
+
+# Add your Google Scholar (and any other) social links
+social:
+ 
+
+
+# (Optional) Grouping – lets you selectively show subsets
