@@ -7,7 +7,7 @@ first_name: "Aranya"
 last_name: "Bhattacharya"
 
 authors:
-  - aranya
+  - Aranya
 
 superuser: False
 
