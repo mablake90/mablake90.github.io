@@ -17,11 +17,13 @@ organizations:
   - name: University of Bristol
     url: ''
   
-bio: Max does cool holography research.
+bio: Max is a postdoctoral researcher in the group. His research is centred on entropy inequalities. 
 
 # Research interests to show
 interests:
-  - Cool holography stuff
+  - Quantum entropy cone
+  - Entropy inequalities
+  - Quantum Information and Gravity.
 
 # Add your Google Scholar (and any other) social links
 social:
@@ -38,4 +40,3 @@ user_groups:
 # You can add any additional params you want to use later
 # email: "alice@example.edu"
 ---
-Max does cool work in holography.
