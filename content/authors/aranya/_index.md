@@ -36,7 +36,4 @@ user_groups:
 # You can add any additional params you want to use later
 # email: "alice@example.edu"
 
----
-
-# (Optional) Grouping – lets you selectively show subsets
----
+___
