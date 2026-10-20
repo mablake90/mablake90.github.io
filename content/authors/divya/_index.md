@@ -21,8 +21,8 @@ bio: Divya is a postgraduate researcher in the group. Divya currently works on c
 
 # Research interests to show
 interests:
-  - Entropy inequalities.
-  - Holographic entanglement entropy. 
+  - Entropy inequalities
+  - Holographic entanglement entropy
 
 # Add your Google Scholar (and any other) social links
 
