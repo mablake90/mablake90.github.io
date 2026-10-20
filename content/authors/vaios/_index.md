@@ -21,15 +21,12 @@ bio: Vaios was a postdoctoral research in the group from 2023-2026. Vaios worked
 
 # Research interests to show
 interests:
-  - Hydrodynamics.
-  - Holography.
-  - Schwinger-Keldysh formalism. 
+  - Hydrodynamics
+  - Holography
+  - Schwinger-Keldysh formalism
 
 # Add your Google Scholar (and any other) social links
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:vaios.ziogas@bristol.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=mbd6YV0AAAAJ&hl=en
