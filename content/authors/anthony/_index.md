@@ -7,7 +7,7 @@ first_name: "Anthony"
 last_name: "Thompson"
 
 authors:
-  - anthony
+  - Anthony
 
 superuser: False
 
