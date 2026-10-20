@@ -27,9 +27,7 @@ interests:
 
 # Add your Google Scholar (and any other) social links
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:max.rota@bristol.ac.uk'
+ 
 
 
 # (Optional) Grouping – lets you selectively show subsets
