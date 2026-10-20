@@ -37,4 +37,4 @@ user_groups:
 # You can add any additional params you want to use later
 # email: "alice@example.edu"
 ---
-Divya does cool work in holography.
+
