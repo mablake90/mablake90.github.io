@@ -11,7 +11,7 @@ authors:
 
 superuser: False
 
-role: Alumni
+role: Alumni PhD student 
 
 organizations:
   - name: University of Bristol
