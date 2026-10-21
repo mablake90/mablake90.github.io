@@ -24,6 +24,7 @@ interests:
   - Krylov complexity
   - Open quantum systems
   - Scattering Amplitudes
+  - Holography
 
 # Add your Google Scholar (and any other) social links
 social:
