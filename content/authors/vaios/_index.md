@@ -11,7 +11,7 @@ authors:
 
 superuser: False
 
-role: Postdoctoral Research Fellow
+role: Senior Research Associate 
 
 organizations:
   - name: University of Bristol
