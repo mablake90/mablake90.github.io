@@ -28,6 +28,9 @@ interests:
 
 # Add your Google Scholar (and any other) social links
 social:
+  - icon: inspire
+    icon_pack: ai
+    link: https://inspirehep.net/authors/1643543
 
  # (Optional) Grouping – lets you selectively show subsets
 user_groups:
