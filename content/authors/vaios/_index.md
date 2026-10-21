@@ -11,7 +11,7 @@ authors:
 
 superuser: False
 
-role: Former Senior Research Associate 
+role: Alumni Senior Research Associate 
 
 organizations:
   - name: University of Bristol
